@@ -13,7 +13,7 @@ function Post({name, description, message, photoUrl}) {
             <div className="post__header">
                 <Avatar/>
                 <div className="post__info">
-                    <h2>S{name}</h2>
+                    <h2>{name}</h2>
                     <p>{description}</p>
                 </div>
             </div>
