@@ -56,7 +56,7 @@ function Header() {
                     title='Notifications'
                 />
                 <HeaderOption
-                    avatar="https://media-exp1.licdn.com/dms/image/C5603AQFUQ6ey57udmg/profile-displayphoto-shrink_100_100/0/1516848359102?e=1627516800&v=beta&t=A8t_k3oFGDrNQIPsmsNsBaTrwpCszwecTZIDmOpDJ2E"
+                    avatar={true}
                     title="me"
                     onClick={logoutOfApp}
                 />
