@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/linkedin-clone/static/css/main.8afddf00.chunk.css",
-    "main.js": "/linkedin-clone/static/js/main.1d701ea8.chunk.js",
-    "main.js.map": "/linkedin-clone/static/js/main.1d701ea8.chunk.js.map",
-    "runtime-main.js": "/linkedin-clone/static/js/runtime-main.d5cdf5f9.js",
-    "runtime-main.js.map": "/linkedin-clone/static/js/runtime-main.d5cdf5f9.js.map",
-    "static/js/2.2ade90ac.chunk.js": "/linkedin-clone/static/js/2.2ade90ac.chunk.js",
-    "static/js/2.2ade90ac.chunk.js.map": "/linkedin-clone/static/js/2.2ade90ac.chunk.js.map",
-    "index.html": "/linkedin-clone/index.html",
-    "static/css/main.8afddf00.chunk.css.map": "/linkedin-clone/static/css/main.8afddf00.chunk.css.map",
-    "static/js/2.2ade90ac.chunk.js.LICENSE.txt": "/linkedin-clone/static/js/2.2ade90ac.chunk.js.LICENSE.txt"
+    "main.css": "/linkedIn-clone/static/css/main.8afddf00.chunk.css",
+    "main.js": "/linkedIn-clone/static/js/main.8907ec03.chunk.js",
+    "main.js.map": "/linkedIn-clone/static/js/main.8907ec03.chunk.js.map",
+    "runtime-main.js": "/linkedIn-clone/static/js/runtime-main.4f770e1f.js",
+    "runtime-main.js.map": "/linkedIn-clone/static/js/runtime-main.4f770e1f.js.map",
+    "static/js/2.33c8f11f.chunk.js": "/linkedIn-clone/static/js/2.33c8f11f.chunk.js",
+    "static/js/2.33c8f11f.chunk.js.map": "/linkedIn-clone/static/js/2.33c8f11f.chunk.js.map",
+    "index.html": "/linkedIn-clone/index.html",
+    "static/css/main.8afddf00.chunk.css.map": "/linkedIn-clone/static/css/main.8afddf00.chunk.css.map",
+    "static/js/2.33c8f11f.chunk.js.LICENSE.txt": "/linkedIn-clone/static/js/2.33c8f11f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5cdf5f9.js",
-    "static/js/2.2ade90ac.chunk.js",
+    "static/js/runtime-main.4f770e1f.js",
+    "static/js/2.33c8f11f.chunk.js",
     "static/css/main.8afddf00.chunk.css",
-    "static/js/main.1d701ea8.chunk.js"
+    "static/js/main.8907ec03.chunk.js"
   ]
 }
